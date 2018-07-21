@@ -15,5 +15,6 @@ API中，浏览器和服务器只需要做一个握手的动作，然后，浏�
 - webapp 前端程序
 # 4. 运行结果
 1. 用户登录
-
+![chat](https://github.com/FarawayHome/MyWebsocketChat/blob/master/chat.png)
 2. 聊天界面
+![chat](https://github.com/FarawayHome/MyWebsocketChat/blob/master/chat.png)
